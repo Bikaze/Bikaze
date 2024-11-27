@@ -18,6 +18,8 @@
 
 ## Languages and Tools
 
+**These are some of the tools I know how to work with.**
+
 - [AWS](https://aws.amazon.com)
 - [Babel](https://babeljs.io/)
 - [Bash](https://www.gnu.org/software/bash/)
