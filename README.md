@@ -1,11 +1,11 @@
 # Hi 👋, I'm Clement MUGISHA
 
-## A driven Full Stack Engineer, DevOps enthusiast, and Cybersecurity Analyst from Rwanda
+## A driven Full Stack Engineer, DevOps enthusiast, and Cybersecurity Analyst
 
 ![Profile views](https://komarev.com/ghpvc/?username=bikaze&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on [Katisha Online](https://katishaonline.bikaze.tech)
-- 📫 How to reach me: **clmntmugisha@gmail.com**
+- 📫 How to reach me: [clmntmugisha@gmail.com](mailto:clmntmugisha@gmail.com)
 - ⚡ Fun fact: **I am a jack of all trades!**
 
 ---
