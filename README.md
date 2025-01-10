@@ -1,17 +1,41 @@
 # Hi 👋, I'm Clement MUGISHA
 
-## A driven Full Stack Engineer, DevOps enthusiast, and Cybersecurity Analyst
+## A software engineer enjoying the art of optimizations 🤖
+
+I love DevOps, finding hidden bottlenecks, and transforming complex workflows
+into efficient systems. As a Backend-engineer specialized through `ALX` in
+collaboration with `Holberton School` , I strive to refine architectures,
+streamline deployment processes, and explore cutting-edge technologies that
+make life simpler for everyone.
+
+My certified cybersecurity background with `ISC2` (Certified in Cybersecurity CC),
+combined with hands-on penetration testing from platforms like `ThinkCyber`'s
+Cyberium, fuels my drive to push boundaries, uncover vulnerabilities, and ensure
+robust defenses against the ever-evolving digital threats out there. I thrive on
+challenges that allow me to harness bits and bytes in creative ways to keep our
+world running smoothly.
+
+I genuinely love computers—they're at the core of my day, from sunrise to sunset.
+Whether I'm experimenting with new frameworks, automating tasks, or hunting for
+performance issues in code, I'm forever fascinated by how technology can improve,
+beautify, and enrich our human experience. Every new challenge is a puzzle, and
+I’m always ready to dive deep, build solutions, and make the most of this
+incredible digital landscape. 🖥️
 
 ![Profile views](https://komarev.com/ghpvc/?username=bikaze&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on [Katisha Online](https://katishaonline.bikaze.tech)
-- 📫 How to reach me: [clmntmugisha@gmail.com](mailto:clmntmugisha@gmail.com)
-- ⚡ Fun fact: **I am a jack of all trades!**
+## Currently Learning 🏫🚀
+
+I'm diving into the fascinating world of machine learning 📈, exploring
+data science, neural networks, and AI-driven solutions. I'm also pursuing
+the prestigious **`MIT` Emerging Talents** program to level up my skills
+and embrace the power of cutting-edge technology. 🤖✨
 
 ---
 
 ## Connect with me
 
+- 📫 [clmntmugisha@gmail.com](mailto:clmntmugisha@gmail.com)
 - [LinkedIn](https://linkedin.com/in/clement-mugisha-96ab3a289)
 
 ---
@@ -61,6 +85,8 @@
 - [Travis CI](https://travis-ci.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Webpack](https://webpack.js.org)
+- [JMeter](https://jmeter.apache.org)
+- [Ansible](https://www.ansible.com)
 
 ---
 
